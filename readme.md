@@ -4,7 +4,7 @@
 
 *build*: build folder with CmakeList.txt file
 
-*Input*: All images that you want to indentified
+*Input*: All images that you want to indentify
 
 *Volunteer*: All images that you want/have registered
 
