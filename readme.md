@@ -10,6 +10,8 @@
 
 *disclaimer*: certain parts of the program are specified according to the name of the data I used while creating it, you may have to change the path and name of files according to yours.
 
+Some data have been removed for confidentiality, please add your own data in the folders as explained in this ReadMe file.
+
 ## Images input
 **Put the input image inside the Input folder as follow:**
 - 01/ is for left hand
