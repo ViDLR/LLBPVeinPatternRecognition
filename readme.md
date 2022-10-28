@@ -1,8 +1,11 @@
 # Instructions for the usage of the c++ algorithm
 
 *src*: All functions and headers for the project
+
 *build*: build folder with CmakeList.txt file
+
 *Input*: All images that you want to indentified
+
 *Volunteer*: All images that you want/have registered
 
 *disclaimer*: certain parts of the program are specified according to the name of the data I used while creating it, you may have to change the path and name of files according to yours.
