@@ -19,10 +19,10 @@ Some data have been removed for confidentiality, please add your own data in the
 	
 ## Images registered classification
 **Put the images to register inside the volunteer folder as follow:**
-- 01/ is for left hand
-	- give a number to all the registered patient as follow: 01, 02, ..., 99
-- 02/ is for right hand
-	- give a number to all the registered patient as follow: 01, 02, ..., 99
+- 01/ (left hand)
+	- give a number to all the registered patient and place them in folders as: 01, 02, ..., 99 
+- 02/ (right hand)
+	- give a number to all the registered patient and place them in folders as: 01, 02, ..., 99 
 	
 *put all the corresponding images inside the folders*
 	
