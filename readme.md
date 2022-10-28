@@ -38,9 +38,9 @@ Some data have been removed for confidentiality, please add your own data in the
 ## Execution
 **You can now execute the two functions from this build folder with:**
 
-```./Registrationcpp ../volunteers/02/ (for left hand)```
+```./Registrationcpp ../volunteers/02/ (for right hand)```
 
-```./Matchingcpp ../Input/02/ ../volunteers/02/ (for left hand)```
+```./Matchingcpp ../Input/02/ ../volunteers/02/ (for right hand)```
 	
 	
 ***This algortihm was created by Virgile based on the LLBP technique (references below), you can contact me at virgile.dlr@protonmail.com***
