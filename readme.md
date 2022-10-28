@@ -24,15 +24,15 @@
 ## Build
 **build with cmake inside the build folder**
 
-`cmake .` 
-`make`
+```cmake .
+make```
 	
 *if you just copied the folder and have other files except "CmakeList.txt" inside the build folder you will have cmake error, remove everything except "CmakeList.txt" and build again*
 	
 ## Execution
 **You can now execute the two functions from this build folder with:**
-`./Registrationcpp ../volunteers/02/ (for left hand)`
-`./Matchingcpp ../Input/02/ ../volunteers/02/ (for left hand)`
+```./Registrationcpp ../volunteers/02/ (for left hand)
+./Matchingcpp ../Input/02/ ../volunteers/02/ (for left hand)```
 	
 	
 ***This algortihm was created by Virgile based on the LLBP technique (references below), you can contact me at virgile.dlr@protonmail.com***
