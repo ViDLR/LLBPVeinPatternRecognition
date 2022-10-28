@@ -1,0 +1,8 @@
+cmake_minimum_required(VERSION 3.22)
+project( SysmexCpp )
+find_package( OpenCV REQUIRED )
+include_directories( ${OpenCV_INLCUDE_DIRS} )
+add_executable( Matchingcpp ../src/Matching.cpp ../src/Preprocess_function.h ../src/LLBP_function.h ../src/Transformation_function.h ../src/ROI_function.h ../src/Clahe_function.h)
+add_executable( Registrationcpp ../src/Registration.cpp )
+target_link_libraries( Matchingcpp ${OpenCV_LIBS})
+target_link_libraries( Registrationcpp ${OpenCV_LIBS})
